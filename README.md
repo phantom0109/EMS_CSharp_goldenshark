@@ -1,6 +1,17 @@
 ### CMS C# 2023 Update
 #### We are open for any kind of feature request and pull request [GoldenShark 2023]
 
+---
+
+Employee Management System has been developed as coursework of **Application Development** module.
+
+The main objectives of this project are:
+
+1. Learn basic concept of Object Oriented Programming.
+
+2. Learn Windows Form Application.
+
+---
 
 Some of the features of this system are:
 
